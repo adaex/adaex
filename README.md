@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+#### 🔭 I'm currently focusing on [coajs](https://github.com/coajs)
+
+  - [coa-http](https://github.com/coajs/coa-http) A simple and lightweight HTTP server
+  - [coa-mysql](https://github.com/coajs/coa-mysql) A MySQL database component for coa
+  - [coa-redis](https://github.com/coajs/coa-redis) A Redis database component for coa
+  
+
 <!--
 **adaex/adaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
