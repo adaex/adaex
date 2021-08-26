@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-#### 🔭 I'm currently focusing on [coajs](https://github.com/coajs)
+#### 🔭 I'm currently focusing on [coajs](https://github.com/coajs) and some open source code.
 
-  It includes the basic web framework, common tools, and some third-party service libraries
+  Includes the basic web framework, common tools, and some third-party service libraries.
 
-  - [coa-http](https://github.com/coajs/coa-http) A simple, fast, and lightweight HTTP service framework, designed for API, is the core HTTP library of COA
-  - [coa-mysql](https://github.com/coajs/coa-mysql) COA core MySQL database components, including basic data model, cache data model, distributed ID, etc.
-  - [coa-redis](https://github.com/coajs/coa-redis) COA core Redis database components, including data caching, queue messages, timing tasks, distributed locks, etc.
+  - [coa-http](https://github.com/coajs/coa-http): A simple, fast, and lightweight HTTP service framework, designed for API.
+  - [coa-mysql](https://github.com/coajs/coa-mysql): MySQL database components for coajs, including basic data model, cache data model, distributed ID, etc.
+  - [coa-redis](https://github.com/coajs/coa-redis): Redis database components for coajs, including data caching, queue messages, timing tasks, distributed locks, etc.
   
 
 <!--
