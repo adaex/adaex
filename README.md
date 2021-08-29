@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there! Nice to see you.
+
+
+I'm adaex, a Node.js back-end developer who loves front-end development.
+
+
 
 
 #### 🔭 I'm currently focusing on [coajs](https://github.com/coajs) and some open source code.
