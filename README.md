@@ -3,16 +3,13 @@
 
 I'm adaex, a Node.js back-end developer who loves front-end development.
 
+I'm currently focusing on [coajs](https://github.com/coajs) and [element-plus](https://github.com/element-plus). I like open source and all interesting things and want to try to do it.
 
 
+#### Github Stats
 
-#### 🔭 I'm currently focusing on [coajs](https://github.com/coajs) and some open source code.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adaex&count_private=true&show_icons=true&hide=stars)
 
-  Includes the basic web framework, common tools, and some third-party service libraries.
-
-  - [coa-http](https://github.com/coajs/coa-http): A simple, fast, and lightweight HTTP service framework, designed for API.
-  - [coa-mysql](https://github.com/coajs/coa-mysql): MySQL database components for coajs, including basic data model, cache data model, distributed ID, etc.
-  - [coa-redis](https://github.com/coajs/coa-redis): Redis database components for coajs, including data caching, queue messages, timing tasks, distributed locks, etc.
   
 
 <!--
