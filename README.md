@@ -1,14 +1,17 @@
-### 👋 Hi there! Nice to see you.
+![Hello, I'm Aex](https://user-images.githubusercontent.com/29560987/140722662-b64c3c1f-8927-4b6a-b191-c21b9e6d9916.png)
 
 
-I'm adaex, a Node.js back-end developer who loves front-end development.
 
-I'm currently focusing on [coajs](https://github.com/coajs) and [element-plus](https://github.com/element-plus). I like open source and all interesting things and want to try to do it.
+#### About Me
+
+- 😄 I’m a Node.js back-end developer who loves front-end development
+- 🌱 I like open source and all interesting things and want to try to do it
+- 🔭 I’m currently focusing on [coajs](https://github.com/coajs) and [element-plus](https://github.com/element-plus)
 
 
 #### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adaex&count_private=true&show_icons=true&hide=stars)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adaex&count_private=true&show_icons=true&hide=stars&icon_color=2f80ed)
 
   
 
