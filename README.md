@@ -1,21 +1,28 @@
-![Hello, I'm Aex](https://user-images.githubusercontent.com/29560987/140722662-b64c3c1f-8927-4b6a-b191-c21b9e6d9916.png)
+![Hello](https://user-images.githubusercontent.com/29560987/140730649-b8567daf-31e5-4e13-82ca-20a5cbf0c742.png)
+
+
+- 😄 A Node.js back-end developer who loves front-end development
+
+- ❤️ I like open source and all interesting things and want to try to do it
+
+- 🔭 I’m currently focusing on [element-plus](https://github.com/element-plus) and [coajs](https://github.com/coajs), not limited to the following items:
+  -  [element-plus](https://github.com/element-plus): 🎉 A popular Vue.js 3 UI library, 12.4k stars
+  -  [coajs-http](https://github.com/coajs/coa-http): 🍀 A simple, fast, lightweight http service framework, is born for the API
+  -  [coa-mysql](https://github.com/coajs/coa-mysql): ☘️ MySQL components, including basic data models, cache data models, distributed ID, etc
+  -  [coa-redis](https://github.com/coajs/coa-redis): ☘️ Redis components, including data cache, message queue, timing task, distributed lock, etc
+  -  [dev-containers](https://github.com/coajs/dev-containers): 🐳 A repository of development container definitions for coajs
+
+- 💬 Ask me about anything [here](https://github.com/adaex/adaex/issues)
 
 
 
-#### About Me
+<!--
 
-- 😄 I’m a Node.js back-end developer who loves front-end development
-- 🌱 I like open source and all interesting things and want to try to do it
-- 🔭 I’m currently focusing on [coajs](https://github.com/coajs) and [element-plus](https://github.com/element-plus)
-
-
-#### Github Stats
+**Github Stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adaex&count_private=true&show_icons=true&hide=stars&icon_color=2f80ed)
 
-  
 
-<!--
 **adaex/adaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
