@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently focusing on [element-plus](https://github.com/element-plus) and [coajs](https://github.com/coajs), not limited to the following items:
   -  [element-plus](https://github.com/element-plus): 🎉 A popular Vue.js 3 UI library, 12.4k stars
-  -  [coajs-http](https://github.com/coajs/coa-http): 🍀 A simple, fast, lightweight http service framework, is born for the API
+  -  [coa-http](https://github.com/coajs/coa-http): 🍀 A simple, fast, lightweight http service framework, is born for the API
   -  [coa-mysql](https://github.com/coajs/coa-mysql): ☘️ MySQL components, including basic data models, cache data models, distributed ID, etc
   -  [coa-redis](https://github.com/coajs/coa-redis): ☘️ Redis components, including data cache, message queue, timing task, distributed lock, etc
   -  [dev-containers](https://github.com/coajs/dev-containers): 🐳 A repository of development container definitions for coajs
